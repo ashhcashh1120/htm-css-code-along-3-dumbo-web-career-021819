@@ -1,3 +1,4 @@
+<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 /* This is a comment */
 
 /* CSS Syntax
@@ -23,4 +24,22 @@ figcaption {
   color: grey;
   text-align: right;
 
+}
+
+.milk-text {
+  font: bold 2.6m;
+  color: white;
+  text-shadow: 0.2px 3px 
+}
+
+#logo{
+  background-color: green;
+}
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Clicker Script', cursive;
 }
