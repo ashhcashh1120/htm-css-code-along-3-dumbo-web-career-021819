@@ -1,0 +1,45 @@
+<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+/* This is a comment */
+
+/* CSS Syntax
+
+selector {
+property, value
+}
+
+*/
+
+/*Type selector */
+
+p {
+  font-size: 16px;
+  line-height: 32px;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75m;
+  line-height: 1.5m;
+  font-family: Georgia;
+  color: grey;
+  text-align: right;
+
+}
+
+.milk-text {
+  font: bold 2.6m;
+  color: white;
+  text-shadow: 0.2px 3px
+}
+
+#logo{
+  background-color: green;
+}
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 {
+  font-family: 'Clicker Script', cursive;
+}
